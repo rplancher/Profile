@@ -1,6 +1,7 @@
 Profile
 =======
 
+The name : Romain Plancher
 Currently working for [C2iS](http://www.c2is.fr) as Back-end developper since 2010.
 Working as a freelance webdesigner in my free time since 2012.
 
